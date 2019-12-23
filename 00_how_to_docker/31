@@ -1,0 +1,1 @@
+docker service rm engineering-bay marines orbital-command

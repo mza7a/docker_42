@@ -1,0 +1,2 @@
+docker swarm join --token SWMTKN-1-0xehue9hsc7xkpybjpysyejtsdt8qmyopbpaiermkdf4xtgf59-52giykn7pmnn4xjs4qiyippr6 192.168.99.100:2377
+#change the token to yours
